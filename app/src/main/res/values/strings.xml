@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyInstagram</string>
+    <string name="from">from</string>
+    <string name="meta">Meta</string>
+    <string name="login_user_name_hint">Phone number, email or username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_facebook">Login with Facebook</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up"> Sign up.</string>
+    <string name="choose_username">Choose username</string>
+    <string name="username_info">You can always change it later.</string>
+    <string name="username">Username</string>
+    <string name="next">Next</string>
+    <string name="create_password">Create a password</string>
+    <string name="password_info">For security, your password must be 6 characters or more.</string>
+    <string name="remember_password">Remember password</string>
+    <string name="welcome_instagram">Welcome to Instagram,</string>
+    <string name="user_welcome">We\'ll add the email and phone number from ___ to $username. You can update this info anytime in Settings, or enter new info now.</string>
+    <string name="complete_signup">Complete sign up</string>
+    <string name="add_new_details">Add new phone or email</string>
+    <string name="agree_terms">To create account you are agree with Terms, Privacy Policy and Cookies Policy.</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="reel">Reel</string>
+    <string name="newPost">New Post</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instagram">instagram</string>
+
+</resources>

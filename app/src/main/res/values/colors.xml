@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="disable">#ADADAD</color>
+    <color name="btnBackground">#EDEDED</color>
+
+    <color name="blue">#002B61</color>
+    <color name="facebook">#FF0163E0</color>
+    <color name="bg">
+        <gradient android:centerX="332.1" android:centerY="2511.8" android:gradientRadius="3263.5" android:type="radial">
+            <item android:color="#FFFA8F21" android:offset="0.1" />
+            <item android:color="#FFD82D7E" android:offset="0.8" />
+        </gradient>
+    </color>
+    <color name="music">#68000000</color>
+</resources>
